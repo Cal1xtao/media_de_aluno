@@ -42,3 +42,4 @@ public class media {
 		
 	}
 }
+![Diagrama da média do aluno](https://user-images.githubusercontent.com/101893557/166337736-884d32dc-ef10-4d5d-bcfc-cb5e69457b1d.png)
