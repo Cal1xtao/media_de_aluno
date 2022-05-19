@@ -22,3 +22,4 @@ A soma de todas as notas e  media.
 Se media maior que 5 Faca.
 Aprovado(a).
 Se nao reprovado(a).
+## fim
